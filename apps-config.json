@@ -1,1 +1,18 @@
-{}
+{
+  "telescope100x.zoom.camera": {
+    "version_less_than": "2.3",
+    "update": true
+  },
+  "reze.microscope.zoomcamera": {
+    "version_less_than": "3.2",
+    "update": true
+  },
+    "app.biblequotes": {
+    "version_less_than": "1.3",
+    "update": false
+  },
+  "app.grain.camera": {
+    "version_less_than": "1.9",
+    "update": true
+  }
+}
